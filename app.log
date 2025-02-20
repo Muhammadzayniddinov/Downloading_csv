@@ -1,0 +1,162 @@
+2025-01-17 19:08:27,557 - INFO - Opening the login page.
+2025-01-17 19:08:58,325 - INFO - Inputting login credentials.
+2025-01-17 19:09:03,576 - INFO - Navigating to the articles table page.
+2025-01-17 19:09:08,614 - INFO - Opening CSV file to write articles data.
+2025-01-17 19:09:08,694 - INFO - Extracted headers: ['Id', 'Title', 'Article', 'Section', 'Publication date', 'Last update date']
+2025-01-17 19:09:08,694 - INFO - Extracting table data from current page.
+2025-01-17 19:09:09,660 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:14,737 - INFO - Extracting table data from current page.
+2025-01-17 19:09:15,697 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:20,787 - INFO - Extracting table data from current page.
+2025-01-17 19:09:21,708 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:26,767 - INFO - Extracting table data from current page.
+2025-01-17 19:09:27,711 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:32,769 - INFO - Extracting table data from current page.
+2025-01-17 19:09:33,722 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:38,789 - INFO - Extracting table data from current page.
+2025-01-17 19:09:39,705 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:44,760 - INFO - Extracting table data from current page.
+2025-01-17 19:09:45,689 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:50,741 - INFO - Extracting table data from current page.
+2025-01-17 19:09:51,703 - INFO - Added 10 rows to CSV.
+2025-01-17 19:09:56,756 - INFO - Extracting table data from current page.
+2025-01-17 19:09:57,669 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:02,731 - INFO - Extracting table data from current page.
+2025-01-17 19:10:03,668 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:08,752 - INFO - Extracting table data from current page.
+2025-01-17 19:10:09,667 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:14,727 - INFO - Extracting table data from current page.
+2025-01-17 19:10:15,666 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:20,727 - INFO - Extracting table data from current page.
+2025-01-17 19:10:21,649 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:26,711 - INFO - Extracting table data from current page.
+2025-01-17 19:10:27,648 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:32,704 - INFO - Extracting table data from current page.
+2025-01-17 19:10:33,633 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:38,691 - INFO - Extracting table data from current page.
+2025-01-17 19:10:39,608 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:44,663 - INFO - Extracting table data from current page.
+2025-01-17 19:10:45,581 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:50,636 - INFO - Extracting table data from current page.
+2025-01-17 19:10:51,580 - INFO - Added 10 rows to CSV.
+2025-01-17 19:10:56,633 - INFO - Extracting table data from current page.
+2025-01-17 19:10:57,611 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:02,663 - INFO - Extracting table data from current page.
+2025-01-17 19:11:03,596 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:08,660 - INFO - Extracting table data from current page.
+2025-01-17 19:11:09,578 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:14,638 - INFO - Extracting table data from current page.
+2025-01-17 19:11:15,592 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:20,642 - INFO - Extracting table data from current page.
+2025-01-17 19:11:21,556 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:26,606 - INFO - Extracting table data from current page.
+2025-01-17 19:11:27,538 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:32,589 - INFO - Extracting table data from current page.
+2025-01-17 19:11:33,525 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:38,584 - INFO - Extracting table data from current page.
+2025-01-17 19:11:39,490 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:44,552 - INFO - Extracting table data from current page.
+2025-01-17 19:11:45,506 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:50,560 - INFO - Extracting table data from current page.
+2025-01-17 19:11:51,505 - INFO - Added 10 rows to CSV.
+2025-01-17 19:11:56,561 - INFO - Extracting table data from current page.
+2025-01-17 19:11:57,503 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:02,551 - INFO - Extracting table data from current page.
+2025-01-17 19:12:03,486 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:08,540 - INFO - Extracting table data from current page.
+2025-01-17 19:12:09,453 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:14,499 - INFO - Extracting table data from current page.
+2025-01-17 19:12:15,450 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:20,505 - INFO - Extracting table data from current page.
+2025-01-17 19:12:21,416 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:26,467 - INFO - Extracting table data from current page.
+2025-01-17 19:12:27,416 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:32,483 - INFO - Extracting table data from current page.
+2025-01-17 19:12:33,411 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:38,463 - INFO - Extracting table data from current page.
+2025-01-17 19:12:39,468 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:44,528 - INFO - Extracting table data from current page.
+2025-01-17 19:12:45,453 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:50,509 - INFO - Extracting table data from current page.
+2025-01-17 19:12:51,429 - INFO - Added 10 rows to CSV.
+2025-01-17 19:12:56,488 - INFO - Extracting table data from current page.
+2025-01-17 19:12:57,245 - INFO - Added 8 rows to CSV.
+2025-01-17 19:12:57,251 - INFO - No more pages to load, stopping.
+2025-01-17 19:12:57,251 - INFO - Table data saved to 'csv\articles_data.csv'. Total rows added: 388
+2025-01-17 19:12:57,251 - INFO - Navigating to the use table page.
+2025-01-17 19:13:02,296 - INFO - Opening CSV file to write users data.
+2025-01-17 19:13:02,377 - INFO - Extracted headers: ['Id', 'First name', 'Last name', 'Country', 'Trip', 'Publication date']
+2025-01-17 19:13:02,378 - INFO - Extracting table data from current page.
+2025-01-17 19:13:03,379 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:08,470 - INFO - Extracting table data from current page.
+2025-01-17 19:13:09,496 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:14,553 - INFO - Extracting table data from current page.
+2025-01-17 19:13:15,537 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:20,590 - INFO - Extracting table data from current page.
+2025-01-17 19:13:21,626 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:26,700 - INFO - Extracting table data from current page.
+2025-01-17 19:13:27,682 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:32,736 - INFO - Extracting table data from current page.
+2025-01-17 19:13:33,727 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:38,787 - INFO - Extracting table data from current page.
+2025-01-17 19:13:39,823 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:44,898 - INFO - Extracting table data from current page.
+2025-01-17 19:13:45,924 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:50,982 - INFO - Extracting table data from current page.
+2025-01-17 19:13:52,004 - INFO - Added 10 rows to CSV.
+2025-01-17 19:13:57,052 - INFO - Extracting table data from current page.
+2025-01-17 19:13:58,056 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:03,117 - INFO - Extracting table data from current page.
+2025-01-17 19:14:04,056 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:09,109 - INFO - Extracting table data from current page.
+2025-01-17 19:14:10,148 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:15,201 - INFO - Extracting table data from current page.
+2025-01-17 19:14:16,218 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:21,268 - INFO - Extracting table data from current page.
+2025-01-17 19:14:22,268 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:27,333 - INFO - Extracting table data from current page.
+2025-01-17 19:14:28,339 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:33,394 - INFO - Extracting table data from current page.
+2025-01-17 19:14:34,393 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:39,450 - INFO - Extracting table data from current page.
+2025-01-17 19:14:40,468 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:45,526 - INFO - Extracting table data from current page.
+2025-01-17 19:14:46,492 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:51,545 - INFO - Extracting table data from current page.
+2025-01-17 19:14:52,565 - INFO - Added 10 rows to CSV.
+2025-01-17 19:14:57,626 - INFO - Extracting table data from current page.
+2025-01-17 19:14:58,618 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:03,678 - INFO - Extracting table data from current page.
+2025-01-17 19:15:04,578 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:09,638 - INFO - Extracting table data from current page.
+2025-01-17 19:15:10,579 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:15,638 - INFO - Extracting table data from current page.
+2025-01-17 19:15:16,594 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:21,647 - INFO - Extracting table data from current page.
+2025-01-17 19:15:22,598 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:27,654 - INFO - Extracting table data from current page.
+2025-01-17 19:15:28,561 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:33,620 - INFO - Extracting table data from current page.
+2025-01-17 19:15:34,543 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:39,595 - INFO - Extracting table data from current page.
+2025-01-17 19:15:40,523 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:45,571 - INFO - Extracting table data from current page.
+2025-01-17 19:15:46,526 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:51,584 - INFO - Extracting table data from current page.
+2025-01-17 19:15:52,518 - INFO - Added 10 rows to CSV.
+2025-01-17 19:15:57,572 - INFO - Extracting table data from current page.
+2025-01-17 19:15:58,507 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:03,566 - INFO - Extracting table data from current page.
+2025-01-17 19:16:04,470 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:09,532 - INFO - Extracting table data from current page.
+2025-01-17 19:16:10,441 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:15,483 - INFO - Extracting table data from current page.
+2025-01-17 19:16:16,389 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:21,447 - INFO - Extracting table data from current page.
+2025-01-17 19:16:22,385 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:27,438 - INFO - Extracting table data from current page.
+2025-01-17 19:16:28,401 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:33,449 - INFO - Extracting table data from current page.
+2025-01-17 19:16:34,369 - INFO - Added 10 rows to CSV.
+2025-01-17 19:16:34,385 - INFO - No more pages to load, stopping.
+2025-01-17 19:16:34,386 - INFO - Table data saved to 'csv\users_data.csv'. Total rows added: 360
